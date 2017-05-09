@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ryan Pasca</title>
+    <h3>thinker, chemist, CSM, astronaut</h3>
+		
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	
+	
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="index.html">Home</a></li>
+	        	<li><a href="/bio.html">Bio</a></li>
+        		<li><a href="resume.html">Resume</a></li>
+        		<li><a href="/social.html">Social Media</a></li>
+        		<li><a href="places.html">Places</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Ryan Pasca</h1>
+			
+			<a data-flickr-embed="true"  href="https://www.flickr.com/photos/148086810@N05/33386483284/in/dateposted-public/" title="ryaninponza"><img src="https://c1.staticflickr.com/3/2855/33386483284_fbe44eb77a_b.jpg" width="1024" height="533" alt="ryaninponza"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+		</div><!-- /.container -->
+			
+
+		<footer>
+    		<ul>
+        		<li><a href="mailto:ryan1pasca@gmail.com">email</a></li>
+			<li>thanks for stopping in
+        		<!--    <li><a href="https://github.com/ryanpasca">github.com/ryanpasca</a></li>   -->
+			
+			</ul>
+		</footer>
+	</body>
+</html>
