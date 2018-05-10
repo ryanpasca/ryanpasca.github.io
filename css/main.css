@@ -1,3 +1,8 @@
+.smaller-gg-portrait {
+    width: 50%;
+    height: 50%;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
