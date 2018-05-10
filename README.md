@@ -1,3 +1,3 @@
-The purpose of this github page is to learn how to make and edit website code
+The purpose of this github page is to learn how to make and edit a website using HTML, CSS, and eventually other types of code.
 
-and hopefully build an online resume for myself.
+The website will serve as an online info site about Ryan
