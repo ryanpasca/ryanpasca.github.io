@@ -27,7 +27,7 @@ nav ul li, footer ul li {
 .nav-border {
     border-right: 4px solid black;
     border-left: 4px solid black;
-    padding: 0px 0px 0px 15px;
+    padding: 0px 15px 0px 15px;
 }
 a {
     text-decoration: none;
