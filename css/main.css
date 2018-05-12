@@ -18,14 +18,16 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    background-color: light blue;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
 .nav-border {
-border-right: 4px dotted black;
+border-right: 4px solid black;
     background-color: light blue;
+    
 }
 a {
     text-decoration: none;
