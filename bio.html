@@ -16,16 +16,14 @@
 		<title>Ryan Pasca | Bio</title>
 		
 		<script> 
-			<button type="button" id="but" >Open Popup</button>
-			<div id="dialogForm">
-			    <form id="myform" method="post">
-				Name:
-				<input type="text"/><br/>
-				Phone:
-				<input type="text"/><br/>
-				<button type="submit"> Submit </button>
-				    </form>
-				</div>
+			$('#but').click(function() {
+			    $("#dialogForm").dialog("open");
+			});
+			    $("#dialogForm").dialog({
+				modal: true,
+				autoOpen: true,
+				show: {effect: "blind", duration: 800}
+			    });   
 		</script>
 	</head>
 	<body>
@@ -46,8 +44,20 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-			<!--<h3>the life and times of</h3>-->
+			
 			<h1>Ryan Pasca</h1>
+			<h3>
+			<button type="button" id="but" >Open Popup</button>
+			<div id="dialogForm">
+			<form id="myform" method="post">
+				Name:
+				<input type="text"/><br/>
+				Phone:
+				<input type="text"/><br/>
+				<button type="submit"> Submit </button>
+			</form>
+			</div>
+			</h3>
 			<p>
 			I grew up on the east coast, spending my childhood in Durham, North Carolina. As a kid, passionate about
 				science, math, and writing, I always felt that I would one day become a doctor. I went on to study
