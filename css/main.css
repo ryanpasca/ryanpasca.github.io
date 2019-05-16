@@ -80,7 +80,8 @@ li, p {
     font-size: 1.2em;
     line-height: 1.4em;
     color: #333;
-    width: 90%
+    width: 90%;
+    text-indent: 12px;
 }
 
 footer {
