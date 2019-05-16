@@ -20,10 +20,6 @@ nav ul, footer ul {
     font-weight: bold;
     background-color: blue;
 }
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
 
 ul.posts { 
     margin: 20px auto 40px; 
@@ -89,3 +85,7 @@ footer {
     font-size: .8em;
 }
 
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
