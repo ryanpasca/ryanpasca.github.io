@@ -33,13 +33,13 @@ ul.posts li {
 */
 
 .ryan-image {
-    max-width: 50%;
-    max-height: 50%;
+    max-width: 25%;
+    max-height: 25%;
     height: auto;
     width: auto;  
     border-style: solid;
     border-width: 3px;
-    display: block;
+    display: inline;
 }
 
 body {
