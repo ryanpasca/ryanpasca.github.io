@@ -55,7 +55,7 @@ body {
 }
 
 .paper {
-    margin: 50px;
+    margin: auto;
     width: 90%;
     background-color: white;
 }
@@ -80,13 +80,11 @@ li, p {
     font-size: 1.2em;
     line-height: 1.4em;
     color: #333;
-    margin-left: auto;
-    margin-right: auto;
+    width: 90%
 }
 
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
 
