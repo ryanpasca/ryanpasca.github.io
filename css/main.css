@@ -16,6 +16,28 @@
     border-left: 4px solid black;
     padding: 0px 15px 0px 15px;
 }
+
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+    background-color: blue;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
 */
 
 .ryan-image {
@@ -41,18 +63,6 @@ body {
     background-color: orange;
 }
 
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-    background-color: blue;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
 a {
     text-decoration: none;
     color: #999;
@@ -66,8 +76,8 @@ h1 {
 
 h1, h2, h3, h4, h5, h6 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-
 }
+
 li, p {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.2em;
@@ -80,11 +90,4 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
 
-ul.posts li {
-    list-style: none;
-}
