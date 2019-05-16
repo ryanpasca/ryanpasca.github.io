@@ -49,14 +49,14 @@ ul.posts li {
 }
 
 body {
-    margin: 80px auto;
-    width: 50%;
-    background-color: grey;
+   /* margin: 80px auto;
+    width: 50%;*/
+    background-color: silver;
 }
 
 .paper {
-    margin: 80px;
-    width: 100%;
+    margin: 50px;
+    width: 90%;
     background-color: white;
 }
 
