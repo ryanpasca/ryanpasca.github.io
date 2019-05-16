@@ -7,10 +7,6 @@
     margin: 50px;
 }
 
-.background-silver {
- background-color: silver;   
-}
-
 .nav-border {
     border-right: 4px solid black;
     border-left: 4px solid black;
@@ -39,6 +35,10 @@ ul.posts li {
 }
 
 */
+
+.background-silver {
+ background-color: #99999922;   
+}
 
 .ryan-image {
     max-width: 50%;
