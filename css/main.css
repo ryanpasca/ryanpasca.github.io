@@ -65,6 +65,8 @@ a:hover {
 }
 h1 {
     font-size: 3em;
+    padding: 15px;
+    margin: 25px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -76,8 +78,7 @@ li, p {
     font-size: 1.2em;
     line-height: 1.4em;
     color: #333;
-    width: 90%;
-    text-indent: 12px;
+    pargin: 25px;
 }
 
 footer {
@@ -87,5 +88,5 @@ footer {
 
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin: 10px;
 }
