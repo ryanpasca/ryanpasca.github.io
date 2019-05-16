@@ -1,4 +1,4 @@
-.smaller-gg-portrait {
+/*.smaller-gg-portrait {
     width: 300px;
     border-style: solid;
     border-width: 10px;
@@ -6,7 +6,15 @@
     border-radius: 30%;
     margin: 50px;
 }
-.ponza-image {
+*/
+
+/*
+.background-silver {
+ background-color: silver;   
+}
+*/
+
+.ryan-image {
     max-width: 50%;
     max-height: 50%;
     height: auto;
@@ -18,20 +26,18 @@
     margin-right: auto;
 }
 
-.background-silver {
- background-color: silver;   
+body {
+    margin: 100px auto;
+    width: 90%;
+    background-color: blue
 }
 
-body {
-    margin: 60px auto;
-    width: 90%;
-}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    background-color: light blue;
+    background-color: blue;
 }
 nav ul li, footer ul li {
     display: inline;
