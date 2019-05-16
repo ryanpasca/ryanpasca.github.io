@@ -36,10 +36,6 @@ ul.posts li {
 
 */
 
-.background-silver {
- background-color: #99999922;   
-}
-
 .ryan-image {
     max-width: 50%;
     max-height: 50%;
@@ -55,12 +51,13 @@ ul.posts li {
 body {
     margin: 80px auto;
     width: 50%;
+    background-color: ##99999933
 }
 
 .paper {
     margin: 120px;
     width: 70%;
-    background-color: orange;
+    background-color: white;
 }
 
 a {
