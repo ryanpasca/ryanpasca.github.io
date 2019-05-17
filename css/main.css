@@ -41,6 +41,7 @@ ul.posts li {
     border-width: 3px;
     border-radius: 15px;
     position: static;
+    margin: 25px;
 }
 
 body {
@@ -50,6 +51,7 @@ body {
 .paper {
     margin: auto;
     width: 90%;
+    height: 90%
     background-color: white;
 }
 
