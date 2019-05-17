@@ -85,7 +85,8 @@ li, p {
 
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: .7em;
+    padding: 10px;
 }
 
 nav ul li, footer ul li {
@@ -94,5 +95,5 @@ nav ul li, footer ul li {
 }
 
  #thumbnail {
-    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   }
