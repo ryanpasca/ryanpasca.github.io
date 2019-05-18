@@ -40,12 +40,15 @@ ul.posts li {
 }
 
 .center-cropped {
-  width: 90%;
-  height: 90%;
-  /*background-image: url("https://github.com/ryanpasca/ryanpasca.github.io/blob/master/ryaninponza.png?raw=true");*/
+  width: 100%;
+  height: 100%;
   background-position: center top;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  overflow: hidden;
+  margin:0;
+  display: block;
+ 
 }
 
 .ryan-image {
