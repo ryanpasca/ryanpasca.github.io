@@ -45,8 +45,8 @@ ul.posts li {
   background-position: center top;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  margin:-10% 0;
   display: block;
+  z-index: -1;
  
 }
 
