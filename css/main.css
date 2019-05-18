@@ -46,7 +46,7 @@ ul.posts li {
   background-repeat: no-repeat;
   background-attachment: fixed;
   overflow: hidden;
-  margin:0;
+  margin:-45% 0;
   display: block;
  
 }
