@@ -42,9 +42,13 @@ ul.posts li {
 .center-cropped {
   width: 90%;
   height: 90%;
-  background-position: center center;
+  background-image: url("https://github.com/ryanpasca/ryanpasca.github.io/blob/master/ryaninponza.png?raw=true");
+  background-position: center top;
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
+
+
 
 .ryan-image {
     max-width: 95%;
