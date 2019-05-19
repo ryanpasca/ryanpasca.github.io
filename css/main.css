@@ -61,7 +61,7 @@ ul.posts li {
     border-radius: 200px;
     position: static; /*position aboslute looked shitty for some reason.... try the others.*/
     display: block;
-    margin: 0px 10px 10px 10px; /* margin auto? what would auto do differently?*/
+    margin: 10px; /* margin auto? what would auto do differently?*/
 }
 
 body {
@@ -90,7 +90,6 @@ h1 {
     padding: 10px;
     margin: 10px;
     position: absolute;
-    bottom: 0px;
 }
 
 h1, h2, h3, h4, h5, h6 {
