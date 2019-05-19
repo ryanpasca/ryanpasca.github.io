@@ -59,12 +59,9 @@ ul.posts li {
     border-style: solid;
     border-width: 2.5px;
     border-radius: 200px;
-    position: static;
+    position: static; /*position aboslute looked shitty for some reason.... try the others.*/
     display: block;
-    margin-top: 0px;
-    margin-bottom: 10px
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0px 10px 10px 10px; /* margin auto? what would auto do differently?*/
 }
 
 body {
