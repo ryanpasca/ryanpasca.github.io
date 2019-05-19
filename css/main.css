@@ -89,7 +89,7 @@ h1 {
     font-size: 2.5em;
     padding: 10px;
     margin: 10px;
-    position: absolute;
+    position: static;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -106,13 +106,13 @@ li, p {
 
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .6em;
-    padding: 5px;
+    font-size: .8em;
+    padding: 3;
 }
 
 nav ul li, footer ul li {
     display: inline;
-    margin: 5px;
+    margin: 3px;
 }
 
  #thumbnail {
