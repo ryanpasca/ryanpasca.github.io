@@ -64,6 +64,7 @@ ul.posts li {
     margin-left: auto;
     margin-right: auto;
     padding: calc(10px + 10*%);
+    z-index: -1;
 }
 
 body {
