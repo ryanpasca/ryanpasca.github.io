@@ -107,13 +107,13 @@ li, p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .65em;
-    padding: 3px;
+    padding: 10px;
 }
 
 nav ul li, footer ul li {
     display: inline;
     margin: 3px;
-    padding: 3px;
+    
 }
 
  #thumbnail {
