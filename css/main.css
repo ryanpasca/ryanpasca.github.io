@@ -52,13 +52,13 @@ ul.posts li {
 }
 
 .ryan-image {
-    max-width: 100%;
-    max-height: 100%;
+    max-width: 98%;
+    max-height: 98%;
     height: auto;
     width: auto;  
     border-style: solid;
     border-width: 2.5px;
-    border-radius: 1000px;
+    border-radius: 200px;
     position: absolute;
     display: block;
     margin-top: 0px;
