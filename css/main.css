@@ -62,7 +62,7 @@ ul.posts li {
     display: block;
     margin-left: 30px; /* margin auto? what would auto do differently?*/
     margin-top: -30px; /* apparently negative margin is a thing? let's see if it does what I'm trying to... to have the profile image overlap the background image, resembling the major social meda platforms.*/
-    margin-right: 10px;
+    margin-right: 20px;
     margin-bottom: 10px;
 }
 
