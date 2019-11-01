@@ -53,9 +53,8 @@ ul.posts li {
 
 .ryan-image {
     max-width: 98%;
-    max-height: 98%;
     height: auto;
-    width: auto;
+   /* width: auto;   think this is not needed b/c width and height are already defined above.*/ 
     border-style: solid;
     border-width: 2.5px;
     border-radius: 200px;
